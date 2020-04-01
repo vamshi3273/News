@@ -7636,7 +7636,7 @@ body {
 .img-zoom {
   transition: transform .2s; }
   .img-zoom:hover, .img-zoom:focus {
-    transform: scale(1.5); }
+    transform: scale(1.25); }
 
 .feed-logo-img {
   max-height: 20px;
