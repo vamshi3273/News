@@ -7337,26 +7337,15 @@ body {
   scrollbar-face-color: #e2043e;
   scrollbar-track-color: #a9a9a9; }
 
-html {
-  height: 100%; }
+html {height: 100%; }
 
-body {
-  height: 100%;
-  padding-top: 70px; }
-  body.search {
-    background: #fff;
-    padding: 0; }
-  body.category {
-    padding-top: 60px; }
+body {height: 100%;padding-top: 70px; }
+  body.search {background: #fff; padding: 0; }
+  body.category {padding-top: 60px; }
 
-#content {
-  min-height: 100%; }
+#content {  min-height: 100%; background: #f1f1f1; }
 
-#svg-sprite {
-  position: absolute;
-  visibility: hidden;
-  top: -9999999px;
-  z-index: -1; }
+#svg-sprite {   position: absolute;  visibility: hidden;  top: -9999999px;  z-index: -1; }
 
 .svg-icon {
   height: 1rem;
